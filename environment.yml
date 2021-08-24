@@ -1,0 +1,8 @@
+name: debug_pyproj
+channels:
+  - conda-forge
+dependencies:
+  - pyproj
+  - jupyter
+  - pytest
+prefix: C:\Users\HL04\AppData\Local\mambaforge\envs\debug_pyproj
